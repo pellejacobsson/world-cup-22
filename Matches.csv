@@ -1,0 +1,65 @@
+GameId,Team1,Team2,StartDate,RoundId,Venue,Team1_Name,Team2_Name,StageId
+1,A1,A2,2022-11-20 17:00:00,1,Al Bayt,Qatar,Ecuador,Groups
+2,A3,A4,2022-11-21 17:00:00,3,Al Thumama,Senegal,Netherlands,Groups
+3,B1,B2,2022-11-21 14:00:00,2,Khalifa Internat.,England,IR Iran,Groups
+4,B3,B4,2022-11-21 20:00:00,4,Ahmad Bin Ali,USA,Wales,Groups
+5,D1,D2,2022-11-22 20:00:00,8,Al Janoub,France,Australia,Groups
+6,D3,D4,2022-11-22 14:00:00,7,Education City,Denmark,Tunisia,Groups
+7,C3,C4,2022-11-22 17:00:00,6,Stadium 974,Mexico,Poland,Groups
+8,C1,C2,2022-11-22 11:00:00,5,Lusail,Argentina,Saudi Arabia,Groups
+9,F1,F2,2022-11-23 20:00:00,4,Ahmad Bin Ali,Belgium,Canada,Groups
+10,E1,E2,2022-11-23 17:00:00,3,Al Thumama,Spain,Costa Rica,Groups
+11,E3,E4,2022-11-23 14:00:00,2,Khalifa Internat.,Germany,Japan,Groups
+12,F3,F4,2022-11-23 11:00:00,1,Al Bayt,Morocco,Croatia,Groups
+13,G3,G4,2022-11-24 11:00:00,8,Al Janoub,Switzerland,Cameroon,Groups
+14,H3,H4,2022-11-24 14:00:00,7,Education City,Uruguay,South Korea,Groups
+15,H1,H2,2022-11-24 17:00:00,6,Stadium 974,Portugal,Ghana,Groups
+16,G1,G2,2022-11-24 20:00:00,5,Lusail,Brazil,Serbia,Groups
+17,B4,B2,2022-11-25 11:00:00,4,Ahmad Bin Ali,Wales,IR Iran,Groups
+18,A1,A3,2022-11-25 14:00:00,3,Al Thumama,Qatar,Senegal,Groups
+19,A4,A2,2022-11-25 17:00:00,2,Khalifa Internat.,Netherlands,Ecuador,Groups
+20,B1,B3,2022-11-25 20:00:00,1,Al Bayt,England,USA,Groups
+21,D4,D2,2022-11-26 11:00:00,8,Al Janoub,Tunisia,Australia,Groups
+22,C4,C2,2022-11-26 14:00:00,7,Education City,Poland,Saudi Arabia,Groups
+23,D1,D3,2022-11-26 17:00:00,6,Stadium 974,France,Denmark,Groups
+24,C1,C3,2022-11-26 20:00:00,5,Lusail,Argentina,Mexico,Groups
+25,E4,E2,2022-11-27 11:00:00,4,Ahmad Bin Ali,Japan,Costa Rica,Groups
+26,F1,F3,2022-11-27 14:00:00,3,Al Thumama,Belgium,Morocco,Groups
+27,F4,F2,2022-11-27 17:00:00,2,Khalifa Internat.,Croatia,Canada,Groups
+28,E1,E3,2022-11-27 20:00:00,1,Al Bayt,Spain,Germany,Groups
+29,G4,G2,2022-11-28 11:00:00,8,Al Janoub,Cameroon,Serbia,Groups
+30,H4,H2,2022-11-28 14:00:00,7,Education City,South Korea,Ghana,Groups
+31,G1,G3,2022-11-28 17:00:00,6,Stadium 974,Brazil,Switzerland,Groups
+32,H1,H3,2022-11-28 20:00:00,5,Lusail,Portugal,Uruguay,Groups
+33,B4,B1,2022-11-29 20:00:00,4,Ahmad Bin Ali,Wales,England,Groups
+34,B2,B3,2022-11-29 20:00:00,3,Al Thumama,IR Iran,USA,Groups
+35,A2,A3,2022-11-29 16:00:00,2,Khalifa Internat.,Ecuador,Senegal,Groups
+36,A4,A1,2022-11-29 16:00:00,1,Al Bayt,Netherlands,Qatar,Groups
+37,D2,D3,2022-11-30 16:00:00,8,Al Janoub,Australia,Denmark,Groups
+38,D4,D1,2022-11-30 16:00:00,7,Education City,Tunisia,France,Groups
+39,C4,C1,2022-11-30 20:00:00,6,Stadium 974,Poland,Argentina,Groups
+40,C2,C3,2022-11-30 20:00:00,5,Lusail,Saudi Arabia,Mexico,Groups
+41,F4,F1,2022-12-01 16:00:00,4,Ahmad Bin Ali,Croatia,Belgium,Groups
+42,F2,F3,2022-12-01 16:00:00,3,Al Thumama,Canada,Morocco,Groups
+43,E4,E1,2022-12-01 20:00:00,2,Khalifa Internat.,Japan,Spain,Groups
+44,E2,E3,2022-12-01 20:00:00,1,Al Bayt,Costa Rica,Germany,Groups
+45,H2,H3,2022-12-02 16:00:00,8,Al Janoub,Ghana,Uruguay,Groups
+46,H4,H1,2022-12-02 16:00:00,7,Education City,South Korea,Portugal,Groups
+47,G2,G3,2022-12-02 20:00:00,6,Stadium 974,Serbia,Switzerland,Groups
+48,G4,G1,2022-12-02 20:00:00,5,Lusail,Cameroon,Brazil,Groups
+49,1A,2B,2022-12-03 16:00:00,2,Khalifa Internat.,-,-,Eigth-Final 1
+50,1C,2D,2022-12-03 20:00:00,4,Ahmad Bin Ali,-,-,Eigth-Final 2
+51,1B,2A,2022-12-04 20:00:00,1,Al Bayt,-,-,Eigth-Final 4
+52,1D,2C,2022-12-04 16:00:00,3,Al Thumama,-,-,Eigth-Final 3
+53,1E,2F,2022-12-05 16:00:00,8,Al Janoub,-,-,Eigth-Final 5
+54,1G,2H,2022-12-05 20:00:00,6,Stadium 974,-,-,Eigth-Final 6
+55,1F,2E,2022-12-06 16:00:00,7,Education City,-,-,Eigth-Final 7
+56,1H,2G,2022-12-06 20:00:00,5,Lusail,-,-,Eigth-Final 8
+57,W49,W50,2022-12-09 20:00:00,5,Lusail,-,-,Quarter-Final 2
+58,W53,W54,2022-12-09 16:00:00,7,Education City,-,-,Quarter-Final 1
+59,W51,W52,2022-12-10 20:00:00,1,Al Bayt,-,-,Quarter-Final 4
+60,W55,W56,2022-12-10 16:00:00,3,Al Thumama,-,-,Quarter-Final 3
+61,W57,W58,2022-12-13 20:00:00,5,Lusail,-,-,Semi-Final 1
+62,W59,W60,2022-12-14 20:00:00,1,Al Bayt,-,-,Semi-Final 2
+63,RU61,RU62,2022-12-17 16:00:00,2,Khalifa Internat.,-,-,Third place
+64,W61,W62,2022-12-18 16:00:00,5,Lusail,-,-,Final

@@ -1,0 +1,33 @@
+TeamId,GroupName,TeamIdInGroup,Team_Name
+1,A,1,Qatar
+2,A,2,Ecuador
+3,A,3,Senegal
+4,A,4,Netherlands
+5,B,1,England
+6,B,2,IR Iran
+7,B,3,USA
+8,B,4,Wales
+9,C,1,Argentina
+10,C,2,Saudi Arabia
+11,C,3,Mexico
+12,C,4,Poland
+13,D,1,France
+14,D,2,Australia
+15,D,3,Denmark
+16,D,4,Tunisia
+17,E,1,Spain
+18,E,2,Costa Rica
+19,E,3,Germany
+20,E,4,Japan
+21,F,1,Belgium
+22,F,2,Canada
+23,F,3,Morocco
+24,F,4,Croatia
+25,G,1,Brazil
+26,G,2,Serbia
+27,G,3,Switzerland
+28,G,4,Cameroon
+29,H,1,Portugal
+30,H,2,Ghana
+31,H,3,Uruguay
+32,H,4,South Korea
